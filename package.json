@@ -1,5 +1,5 @@
 {
-  "homepage": "https://hitarth-gg.github.io/codeforces-explorer/",
+  "homepage": "https://devdrx.github.io/codeforces-explorer/",
   "name": "codeforces-explorer",
   "version": "0.1.0",
   "private": true,
@@ -24,8 +24,8 @@
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
-    "unix-timestamp": "^1.0.4",
     "recharts": "^2.12.7",
+    "unix-timestamp": "^1.0.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
